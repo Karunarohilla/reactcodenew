@@ -31,6 +31,7 @@ function App() {
      {/* <Router> */}
       {/* <Component headname="code with harry ndv xm" /> */}
       <Navbar title="Navbar in React JS" mode={mode} toggleMode={toggleMode} />
+      <h2>Hello</h2>
       <Alert alert={alert} />     
           {/* <Routes> */}
             {/* <Route path='/' element={<About />} /> */}
